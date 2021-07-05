@@ -2,4 +2,5 @@ Rencana selanjutnya:
 - Saya akan memperlajari AI
    * Balajar teori
    * Belajar simulasi
+   * Belajar dari project
 - Saya akan mempelajari modeling
