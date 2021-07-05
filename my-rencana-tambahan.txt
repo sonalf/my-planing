@@ -5,4 +5,5 @@ Rencana selanjutnya:
    * Belajar dari project
      - Pakai PSoC
      - Image processing
+
 - Saya akan mempelajari modeling
