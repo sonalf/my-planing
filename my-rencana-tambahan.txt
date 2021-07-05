@@ -3,6 +3,7 @@ Rencana selanjutnya:
    * Balajar teori
    * Belajar simulasi
    * Belajar dari project
-     - bikin GUI
-     - Coba di mini PC
+     - Pakai PSoC
+     - Image processing
+
 - Saya akan mempelajari modeling
