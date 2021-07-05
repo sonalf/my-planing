@@ -3,4 +3,5 @@ Rencana selanjutnya:
    * Balajar teori
    * Belajar simulasi
    * Belajar dari project
+     - bikin GUI
 - Saya akan mempelajari modeling
