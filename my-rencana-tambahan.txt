@@ -4,4 +4,5 @@ Rencana selanjutnya:
    * Belajar simulasi
    * Belajar dari project
      - bikin GUI
+     - Coba di mini PC
 - Saya akan mempelajari modeling
