@@ -1,0 +1,5 @@
+Bulan juli ini saya harus menguasasi:
+- SQL menggunakan postgree
+- GIT dan GITHub
+- Python 
+- Tablue
