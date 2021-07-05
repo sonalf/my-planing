@@ -3,3 +3,5 @@ Bulan juli ini saya harus menguasasi:
 - GIT dan GITHub
 - Python 
 - Tablue
+- Mencoba menyelesaikan beberapa contoh project
+- Mengumpulkan beberapa setificate pendukung
